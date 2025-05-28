@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "opticc-tool"
+version = "0.0.1"
+description = "OPTICC TOOL"
+authors = ["pphung <45565029+p-phung@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
