@@ -2,7 +2,9 @@
 name = "opticc-tool"
 version = "0.0.1"
 description = "OPTICC TOOL"
-authors = ["pphung <45565029+p-phung@users.noreply.github.com>"]
+authors = [
+  "Memory Kumbikano <mkumbikano@redcross.nl>",
+]
 readme = "README.md"
 
 [tool.poetry.dependencies]
